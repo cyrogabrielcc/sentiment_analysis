@@ -10,17 +10,7 @@ Pacotes usados:
 	- sklearn
 	- picke
 
-### Sentiment Analysis
 
--> Sentiment Analysis, using information from an imdb database
-
-Used packages:
-- Numpy
-- pandas
-- Regex
-- nltk
-- sklearn
-- picke
 
 
 
